@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "T2U4_zad2", "T2U4_zad2.pyproj", "{B01E736F-2DB4-4AD9-85CA-FED851E716CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B01E736F-2DB4-4AD9-85CA-FED851E716CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01E736F-2DB4-4AD9-85CA-FED851E716CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F319B064-548D-44E9-97B2-EFF9BD1448D8}
+	EndGlobalSection
+EndGlobal
